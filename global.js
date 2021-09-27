@@ -2,7 +2,6 @@
 const Discord = require('discord.js');
 const CoinGecko = require('coingecko-api');
 
-
     // Get current price of a crypto that the user requests
 async function getRandom(message, args, CoinGeckoClient) {
 
