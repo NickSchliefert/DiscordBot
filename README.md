@@ -21,7 +21,7 @@ In order to learn how to begin building a Discord bot, I watched YouTube tutoria
 
 Given my interest in the cryptocurrency and blockchain space, I felt that the idea of "price checker" was a reasonable first project.
 
-## Technology
+## Technologies
 This Discord bot was programmed in JavaScript using a number of different libraries and APIs, including:
 - https://discord.js.org/#/
 - https://github.com/miscavage/CoinGecko-API
